@@ -1,0 +1,34 @@
+.table1{
+	border: transparent;
+	text-align: center;
+	height: 100px
+}
+.table2{
+	border: solid;
+	text-align: center;
+	height: 100px
+}
+.table3{
+	border: solid;
+	text-align: center;
+	height: 300px
+}
+.table4{
+	border: solid;
+	text-align: center;
+	height: 250px
+}
+.table5{
+	border: solid;
+	text-align: center;
+	height: 150px
+}
+.table6{
+	border: solid;
+	text-align: center;
+	height: 150px
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}

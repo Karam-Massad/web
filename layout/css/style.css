@@ -1,0 +1,30 @@
+#contanier{
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+	height: 100vh;
+}
+#header{
+	display: flex;
+	flex-basis: 20%;
+	border: solid;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+
+}
+#menu{
+	display: flex;
+	flex-basis: 5%;
+	border: solid;
+}
+#body{
+	display: flex;
+	flex-basis:70%;
+	border:solid;
+}
+#foter{
+display: flex;
+flex-basis: 45%;
+border: solid;
+}
